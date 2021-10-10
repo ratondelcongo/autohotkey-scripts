@@ -1,2 +1,2 @@
-﻿^!t ::
+﻿^!t::
 Run, powershell
